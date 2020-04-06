@@ -1,0 +1,1055 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              build/default/production/button.o (__subsf3)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              build/default/production/button.o (__ltsf2)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              build/default/production/button.o (__floatunsisf)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              build/default/production/button.o (__gtsf2)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              build/default/production/button.o (__mulsf3)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              build/default/production/WS2812.o (__divmodhi4)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                              build/default/production/main.o (__divmodsi4)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              build/default/production/WS2812.o (__tablejump2__)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              build/default/production/WS2812.o (__do_copy_data)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              build/default/production/main.o (__do_clear_bss)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              build/default/production/ds18b20.o (__umulhisi3)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+                              build/default/production/ds18b20.o (__usmulhisi3)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+                              build/default/production/OneWire.o (__ashldi3)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+                              build/default/production/OneWire.o (__lshrdi3)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+                              build/default/production/OneWire.o (__cmpdi2)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+                              build/default/production/OneWire.o (__cmpdi2_s8)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+addreses            0x10              build/default/production/main.o
+rxBuff              0x1e              build/default/production/main.o
+frame               0x1e              build/default/production/WS2812.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 build/default/production/main.o
+ .data          0x00000000        0x0 build/default/production/main.o
+ .bss           0x00000000        0x0 build/default/production/main.o
+ .text          0x00000000        0x0 build/default/production/WS2812.o
+ .data          0x00000000        0x0 build/default/production/WS2812.o
+ .bss           0x00000000        0x0 build/default/production/WS2812.o
+ .text.Set_pixel_color
+                0x00000000       0x1a build/default/production/WS2812.o
+ .text.Clear_frame
+                0x00000000       0x18 build/default/production/WS2812.o
+ .text.Set_operation
+                0x00000000        0xa build/default/production/WS2812.o
+ .bss.smoothBrightnes
+                0x00000000        0x1 build/default/production/WS2812.o
+ .text          0x00000000        0x0 build/default/production/button.o
+ .data          0x00000000        0x0 build/default/production/button.o
+ .bss           0x00000000        0x0 build/default/production/button.o
+ .text          0x00000000        0x0 build/default/production/UART.o
+ .data          0x00000000        0x0 build/default/production/UART.o
+ .bss           0x00000000        0x0 build/default/production/UART.o
+ .text.receive_compl
+                0x00000000        0x6 build/default/production/UART.o
+ .text          0x00000000        0x0 build/default/production/ds18b20.o
+ .data          0x00000000        0x0 build/default/production/ds18b20.o
+ .bss           0x00000000        0x0 build/default/production/ds18b20.o
+ .text.DS_readScratchpad
+                0x00000000       0x6c build/default/production/ds18b20.o
+ .text.DS_readTemperature
+                0x00000000      0x136 build/default/production/ds18b20.o
+ .text.DS_readAllSensors
+                0x00000000      0x130 build/default/production/ds18b20.o
+ .text          0x00000000        0x0 build/default/production/OneWire.o
+ .data          0x00000000        0x0 build/default/production/OneWire.o
+ .bss           0x00000000        0x0 build/default/production/OneWire.o
+ .text.OneWire_sendROM
+                0x00000000       0x86 build/default/production/OneWire.o
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800060         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD build/default/production/main.o
+LOAD build/default/production/WS2812.o
+LOAD build/default/production/button.o
+LOAD build/default/production/UART.o
+LOAD build/default/production/ds18b20.o
+LOAD build/default/production/OneWire.o
+                0x00000001                __MPLAB_BUILD = 0x1
+START GROUP
+LOAD d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1b40
+ *(.vectors)
+ .vectors       0x00000000       0x68 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.Fade_pixel
+                0x00000068        0xe build/default/production/WS2812.o
+ .progmem.gcc_sw_table.Fill_rainbow
+                0x00000076        0xe build/default/production/WS2812.o
+                0x00000084                . = ALIGN (0x2)
+                0x00000084                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000084        0x0 linker stubs
+ *(.trampolines*)
+                0x00000084                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000084                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000084                __ctors_start = .
+ *(.ctors)
+                0x00000084                __ctors_end = .
+                0x00000084                __dtors_start = .
+ *(.dtors)
+                0x00000084                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000084        0x0 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000084                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000084        0xc D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000090       0x16 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000090                __do_copy_data
+ .init4         0x000000a6       0x10 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000a6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000b6        0x8 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000be        0x4 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000be                __vector_22
+                0x000000be                __vector_1
+                0x000000be                __vector_24
+                0x000000be                __vector_12
+                0x000000be                __bad_interrupt
+                0x000000be                __vector_6
+                0x000000be                __vector_3
+                0x000000be                __vector_25
+                0x000000be                __vector_13
+                0x000000be                __vector_17
+                0x000000be                __vector_19
+                0x000000be                __vector_7
+                0x000000be                __vector_5
+                0x000000be                __vector_4
+                0x000000be                __vector_9
+                0x000000be                __vector_2
+                0x000000be                __vector_21
+                0x000000be                __vector_15
+                0x000000be                __vector_8
+                0x000000be                __vector_10
+                0x000000be                __vector_16
+                0x000000be                __vector_20
+                0x000000c2                . = ALIGN (0x2)
+ *(.text.*)
+ .text.main     0x000000c2       0x80 build/default/production/main.o
+                0x000000c2                main
+ .text.Send_1   0x00000142       0x18 build/default/production/WS2812.o
+                0x00000142                Send_1
+ .text.Send_0   0x0000015a       0x16 build/default/production/WS2812.o
+                0x0000015a                Send_0
+ .text.Send_byte
+                0x00000170       0x54 build/default/production/WS2812.o
+                0x00000170                Send_byte
+ .text.Send_res
+                0x000001c4       0x12 build/default/production/WS2812.o
+                0x000001c4                Send_res
+ .text.Show_frame
+                0x000001d6       0x92 build/default/production/WS2812.o
+                0x000001d6                Show_frame
+ .text.Switch_off
+                0x00000268       0x2a build/default/production/WS2812.o
+                0x00000268                Switch_off
+ .text.Set_brightnes
+                0x00000292        0x6 build/default/production/WS2812.o
+                0x00000292                Set_brightnes
+ .text.Incr_brightness
+                0x00000298       0x24 build/default/production/WS2812.o
+                0x00000298                Incr_brightness
+ .text.Decr_brightness
+                0x000002bc       0x24 build/default/production/WS2812.o
+                0x000002bc                Decr_brightness
+ .text.Read_brightnes
+                0x000002e0        0x6 build/default/production/WS2812.o
+                0x000002e0                Read_brightnes
+ .text.WS_init  0x000002e6       0x22 build/default/production/WS2812.o
+                0x000002e6                WS_init
+ .text.Get_fade_stage
+                0x00000308      0x156 build/default/production/WS2812.o
+                0x00000308                Get_fade_stage
+ .text.Fade_pixel
+                0x0000045e      0x23c build/default/production/WS2812.o
+                0x0000045e                Fade_pixel
+ .text.Fade_all
+                0x0000069a       0x1c build/default/production/WS2812.o
+                0x0000069a                Fade_all
+ .text.Fill_color
+                0x000006b6       0x28 build/default/production/WS2812.o
+                0x000006b6                Fill_color
+ .text.Fill_rainbow
+                0x000006de      0x12e build/default/production/WS2812.o
+                0x000006de                Fill_rainbow
+ .text.Brightness_control_looping
+                0x0000080c       0x56 build/default/production/WS2812.o
+                0x0000080c                Brightness_control_looping
+ .text.Set_mode
+                0x00000862       0x3c build/default/production/WS2812.o
+                0x00000862                Set_mode
+ .text.__vector_14
+                0x0000089e      0x12c build/default/production/WS2812.o
+                0x0000089e                __vector_14
+ .text.Btn_init
+                0x000009ca       0x2e build/default/production/button.o
+                0x000009ca                Btn_init
+ .text.Read_btn
+                0x000009f8       0xa6 build/default/production/button.o
+                0x000009f8                Read_btn
+ .text.Btn_press
+                0x00000a9e       0x1e build/default/production/button.o
+                0x00000a9e                Btn_press
+ .text.Btn_release
+                0x00000abc       0x1a build/default/production/button.o
+                0x00000abc                Btn_release
+ .text.Btn_hold
+                0x00000ad6       0x14 build/default/production/button.o
+                0x00000ad6                Btn_hold
+ .text.Btn_double_press
+                0x00000aea       0x1e build/default/production/button.o
+                0x00000aea                Btn_double_press
+ .text.Reset_btn_press_count
+                0x00000b08        0xe build/default/production/button.o
+                0x00000b08                Reset_btn_press_count
+ .text.Btn_looping
+                0x00000b16       0x9a build/default/production/button.o
+                0x00000b16                Btn_looping
+ .text.__vector_11
+                0x00000bb0       0x62 build/default/production/button.o
+                0x00000bb0                __vector_11
+ .text.__vector_23
+                0x00000c12       0x70 build/default/production/button.o
+                0x00000c12                __vector_23
+ .text.UART_Init
+                0x00000c82       0x38 build/default/production/UART.o
+                0x00000c82                UART_Init
+ .text.UART_Transmit_byte
+                0x00000cba       0x10 build/default/production/UART.o
+                0x00000cba                UART_Transmit_byte
+ .text.UART_Transmit_string
+                0x00000cca       0x2c build/default/production/UART.o
+                0x00000cca                UART_Transmit_string
+ .text.UART_Transmit_int
+                0x00000cf6      0x17a build/default/production/UART.o
+                0x00000cf6                UART_Transmit_int
+ .text.UART_Receive
+                0x00000e70       0x10 build/default/production/UART.o
+                0x00000e70                UART_Receive
+ .text.UART_Clear_buff
+                0x00000e80       0x16 build/default/production/UART.o
+                0x00000e80                UART_Clear_buff
+ .text.__vector_18
+                0x00000e96       0x7c build/default/production/UART.o
+                0x00000e96                __vector_18
+ .text.DS_writeScratchpad
+                0x00000f12       0x5c build/default/production/ds18b20.o
+                0x00000f12                DS_writeScratchpad
+ .text.DS_init  0x00000f6e       0x6a build/default/production/ds18b20.o
+                0x00000f6e                DS_init
+ .text.DS_2bytesToTemperature
+                0x00000fd8      0x168 build/default/production/ds18b20.o
+                0x00000fd8                DS_2bytesToTemperature
+ .text.DS_simpleRead
+                0x00001140       0x9e build/default/production/ds18b20.o
+                0x00001140                DS_simpleRead
+ .text.OneWire_check
+                0x000011de       0x38 build/default/production/OneWire.o
+                0x000011de                OneWire_check
+ .text.OneWire_sendBit
+                0x00001216       0x1c build/default/production/OneWire.o
+                0x00001216                OneWire_sendBit
+ .text.OneWire_sendByte
+                0x00001232       0x42 build/default/production/OneWire.o
+                0x00001232                OneWire_sendByte
+ .text.OneWire_readBit
+                0x00001274       0x22 build/default/production/OneWire.o
+                0x00001274                OneWire_readBit
+ .text.OneWire_readByte
+                0x00001296       0x36 build/default/production/OneWire.o
+                0x00001296                OneWire_readByte
+ .text.OneWire_searchROM
+                0x000012cc      0x3a2 build/default/production/OneWire.o
+                0x000012cc                OneWire_searchROM
+ .text.avr-libc.fplib
+                0x0000166e        0xe d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x0000166e                __subsf3
+                0x00001670                __addsf3
+ .text.avr-libc.fplib
+                0x0000167c       0xcc d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x0000169e                __addsf3x
+ .text.avr-libc.fplib
+                0x00001748        0xa d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x00001748                __nesf2
+                0x00001748                __eqsf2
+                0x00001748                __cmpsf2
+                0x00001748                __ltsf2
+                0x00001748                __lesf2
+ .text.avr-libc.fplib
+                0x00001752       0x7a d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00001752                __floatunsisf
+                0x00001756                __floatsisf
+ .text.avr-libc.fplib
+                0x000017cc       0x48 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x000017cc                __fp_cmp
+ .text.avr-libc.fplib
+                0x00001814        0xc d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00001814                __fp_inf
+ .text.avr-libc.fplib
+                0x00001820        0x6 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00001820                __fp_nan
+ .text.avr-libc.fplib
+                0x00001826        0xe d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00001826                __fp_pscA
+ .text.avr-libc.fplib
+                0x00001834        0xe d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00001834                __fp_pscB
+ .text.avr-libc.fplib
+                0x00001842       0x22 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00001842                __fp_round
+ .text.avr-libc.fplib
+                0x00001864       0x44 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00001864                __fp_split3
+                0x00001874                __fp_splitA
+ .text.avr-libc.fplib
+                0x000018a8        0xe d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000018a8                __fp_zero
+                0x000018aa                __fp_szero
+ .text.avr-libc.fplib
+                0x000018b6        0xa d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x000018b6                __gesf2
+                0x000018b6                __gtsf2
+ .text.avr-libc.fplib
+                0x000018c0        0x8 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000018c0                __mulsf3
+ .text.avr-libc.fplib
+                0x000018c8       0xd2 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000018e6                __mulsf3x
+                0x000018ec                __mulsf3_pse
+ .text.libgcc.div
+                0x0000199a       0x28 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x0000199a                _div
+                0x0000199a                __divmodhi4
+ .text.libgcc.div
+                0x000019c2       0x2e d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x000019c2                __divmodsi4
+ .text.libgcc.div
+                0x000019f0       0x10 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x000019f0                __negsi2
+ .text.libgcc   0x00001a00        0xc d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00001a00                __tablejump2__
+ .text.libgcc.mul
+                0x00001a0c       0x1e d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00001a0c                __umulhisi3
+ .text.libgcc.mul
+                0x00001a2a        0xe d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+                0x00001a2a                __usmulhisi3
+                0x00001a2e                __usmulhisi3_tail
+ .text.libgcc.builtins
+                0x00001a38       0x32 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+                0x00001a38                __ashldi3
+ .text.libgcc.builtins
+                0x00001a6a       0x3c d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+                0x00001a6a                __ashrdi3
+                0x00001a6e                __lshrdi3
+ .text.libgcc   0x00001aa6       0x12 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2.o)
+                0x00001aa6                __cmpdi2
+ .text.libgcc   0x00001ab8       0x18 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+                0x00001ab8                __cmpdi2_s8
+ .text.libgcc.div
+                0x00001ad0       0x28 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00001ad0                __udivmodhi4
+ .text.libgcc.div
+                0x00001af8       0x44 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00001af8                __udivmodsi4
+                0x00001b3c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001b3c        0x0 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00001b3c                _exit
+                0x00001b3c                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001b3c        0x4 d:/program files/microchip/mplabx/v5.20/avr8-gnu-toolchain-win32_x86/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001b40                _etext = .
+
+.data           0x00800100        0x6 load address 0x00001b40
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.tempBrightness.1982
+                0x00800100        0x1 build/default/production/WS2812.o
+ .data.operationComplFlag
+                0x00800101        0x1 build/default/production/WS2812.o
+                0x00800101                operationComplFlag
+ .data.oper     0x00800102        0x1 build/default/production/WS2812.o
+                0x00800102                oper
+ .data.readyToReadFlag
+                0x00800103        0x1 build/default/production/button.o
+                0x00800103                readyToReadFlag
+ .data.resolution
+                0x00800104        0x1 build/default/production/ds18b20.o
+                0x00800104                resolution
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800106                . = ALIGN (0x2)
+ *fill*         0x00800105        0x1 
+                0x00800106                _edata = .
+                0x00800106                PROVIDE (__data_end, .)
+
+.bss            0x00800106       0x65
+                0x00800106                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.rememberBrightnessFlag.1983
+                0x00800106        0x1 build/default/production/WS2812.o
+ .bss.state.1977
+                0x00800107        0x1 build/default/production/WS2812.o
+ .bss.mode      0x00800108        0x1 build/default/production/WS2812.o
+                0x00800108                mode
+ .bss.brightChangeFlag
+                0x00800109        0x1 build/default/production/WS2812.o
+                0x00800109                brightChangeFlag
+ .bss.brightness
+                0x0080010a        0x1 build/default/production/WS2812.o
+                0x0080010a                brightness
+ .bss.sum.1903  0x0080010b        0x2 build/default/production/button.o
+ .bss.cnt.1904  0x0080010d        0x1 build/default/production/button.o
+ .bss.div.1897  0x0080010e        0x1 build/default/production/button.o
+ .bss.clickTimeoutTimer.1891
+                0x0080010f        0x1 build/default/production/button.o
+ .bss.state.1872
+                0x00800110        0x1 build/default/production/button.o
+ .bss.btnPressCount
+                0x00800111        0x1 build/default/production/button.o
+                0x00800111                btnPressCount
+ .bss.prevBtnState
+                0x00800112        0x1 build/default/production/button.o
+                0x00800112                prevBtnState
+ .bss.btnState  0x00800113        0x1 build/default/production/button.o
+                0x00800113                btnState
+ .bss.btnPressCountCycles
+                0x00800114        0x2 build/default/production/button.o
+                0x00800114                btnPressCountCycles
+ .bss.timValFiltered
+                0x00800116        0x4 build/default/production/button.o
+                0x00800116                timValFiltered
+ .bss.timVal    0x0080011a        0x2 build/default/production/button.o
+                0x0080011a                timVal
+ .bss.rxIndex.1852
+                0x0080011c        0x1 build/default/production/UART.o
+ .bss.rxFlag    0x0080011d        0x1 build/default/production/UART.o
+                0x0080011d                rxFlag
+ .bss.powerSupplyType
+                0x0080011e        0x1 build/default/production/ds18b20.o
+                0x0080011e                powerSupplyType
+ *(COMMON)
+ COMMON         0x0080011f       0x2e build/default/production/main.o
+                0x0080011f                addreses
+                0x0080012f                rxBuff
+ COMMON         0x0080014d       0x1e build/default/production/WS2812.o
+                0x0080014d                frame
+                0x0080016b                PROVIDE (__bss_end, .)
+                0x00001b40                __data_load_start = LOADADDR (.data)
+                0x00001b46                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080016b        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080016b                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 build/default/production/main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 build/default/production/WS2812.o
+ .comment       0x00000030       0x31 build/default/production/button.o
+ .comment       0x00000030       0x31 build/default/production/UART.o
+ .comment       0x00000030       0x31 build/default/production/ds18b20.o
+ .comment       0x00000030       0x31 build/default/production/OneWire.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x5f4
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.debug_abbrev   0x00000000      0x5a2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.debug_line     0x00000000      0x133
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0x208
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 D:/Program files/Microchip/MPLABX/v5.30/packs/Microchip/ATmega_DFP/2.0.12/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/NeoPixel_light.X.production.elf elf32-avr)
+LOAD linker stubs
